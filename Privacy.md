@@ -1,10 +1,16 @@
 # Privacy Policy
+English version
+This OAuth application is used exclusively by rclone, a well-known open-source command-line tool, to access my own personal Google Drive account. It is not a commercial product, does not have a public user base, and is not distributed to anyone else: it exists solely for my own private use.
+Data accessed: only the files and metadata stored in my personal Google Drive account. This access is strictly limited to what rclone needs in order to synchronize, copy, and back up my own files between my Google Drive and my local machine. No other Google services are involved, and no other accounts are ever accessed through this application.
+Data stored: none. All data remains where it belongs: in my own Google Drive and on my own local machine. This application does not collect, transmit, index, cache, analyze, or retain any user data on any server, database, or third-party infrastructure. There is no backend, no logging system, and no storage component of any kind associated with it.
+Data shared: none. No data is sold, rented, transferred, disclosed, or made available to any third party, advertiser, analytics provider, or partner, under any circumstances. The application acts purely as a direct, private conduit between rclone on my local machine and my own Google Drive.
+Data deleted: I retain full control at all times. I can revoke this application's access to my Google Drive account at any moment, with immediate effect, through the Google security dashboard at  https://myaccount.google.com/permissions. Upon revocation, all access ceases immediately, and no data needs to be deleted on the application side because nothing was ever stored there.
+In short, this is a minimal, single-user integration whose only purpose is to let a standard open-source tool work with my own files, with no data collection, no data retention, and no data sharing of any kind.
 
-This OAuth application is used exclusively by rclone, an open-source
-command-line tool, to access my own Google Drive account.
-
-- Data accessed: files and metadata in my personal Google Drive.
-- Data stored: none. All data stays in my Google Drive and on my local machine.
-- Data shared: none.
-- Data deleted: I can revoke access at any time via
-  https://myaccount.google.com/permissions
+Version française
+Cette application OAuth est utilisée exclusivement par rclone, un outil en ligne de commande open source bien connu, afin d'accéder à mon propre compte Google Drive personnel. Il ne s'agit ni d'un produit commercial, ni d'un service destiné à un public d'utilisateurs, ni d'une application distribuée à des tiers : elle existe uniquement pour mon usage privé.
+Données consultées : uniquement les fichiers et les métadonnées stockés dans mon compte Google Drive personnel. Cet accès est strictement limité à ce dont rclone a besoin pour synchroniser, copier et sauvegarder mes propres fichiers entre mon Google Drive et ma machine locale. Aucun autre service Google n'est concerné, et aucun autre compte n'est jamais accessible via cette application.
+Données stockées : aucune. Toutes les données restent là où elles se trouvent : dans mon propre Google Drive et sur ma propre machine locale. Cette application ne collecte, ne transmet, n'indexe, ne met en cache, n'analyse et ne conserve aucune donnée utilisateur sur un serveur, une base de données ou une infrastructure tierce. Il n'existe aucun backend, aucun système de journalisation et aucune forme de stockage associé à cette application.
+Données partagées : aucune. Aucune donnée n'est vendue, louée, transférée, divulguée ou rendue accessible à un tiers, un annonceur, un fournisseur d'analyse ou un partenaire, en aucune circonstance. L'application agit uniquement comme un canal direct et privé entre rclone sur ma machine locale et mon propre Google Drive.
+Suppression des données : je conserve un contrôle total à tout moment. Je peux révoquer l'accès de cette application à mon compte Google Drive à tout instant, avec effet immédiat, via le tableau de bord de sécurité Google à l'adresse  https://myaccount.google.com/permissions. Dès la révocation, tout accès cesse immédiatement, et aucune suppression n'est nécessaire côté application puisque rien n'y a jamais été stocké.
+En résumé, il s'agit d'une intégration minimale, mono-utilisateur, dont le seul objectif est de permettre à un outil open source standard de fonctionner avec mes propres fichiers, sans aucune collecte, conservation ni partage de données.
