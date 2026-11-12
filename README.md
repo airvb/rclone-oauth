@@ -1,2 +1,2 @@
 # rclone-oauth
-Google drive with Rclone
+Google drive with Rclone for me only
